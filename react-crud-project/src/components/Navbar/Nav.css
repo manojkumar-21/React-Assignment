@@ -1,0 +1,8 @@
+.container-fluid {
+  position: fixed;
+  top: 0;
+  z-index: 2;
+}
+.navbar > .container-fluid {
+  margin-top: 10px;
+}

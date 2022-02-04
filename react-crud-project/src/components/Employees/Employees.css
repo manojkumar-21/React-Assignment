@@ -1,0 +1,12 @@
+.container {
+  margin: 150px;
+}
+
+.btn-add {
+  float: right;
+  margin-bottom: 20px;
+  background-color: aqua;
+}
+.btn-danger {
+  margin-left: 10px;
+}
